@@ -28,7 +28,7 @@ California State University of San Marcos      _May 2024_
 Company_1
 *   Stayed up a lot past midnight
 *   Great experience doing the project
-*   I did the research and my partner did the narrative
+*   I did the research and my partner wrote the narrative
 *   I passed with an A
 
 
