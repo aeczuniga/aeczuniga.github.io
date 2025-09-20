@@ -3,6 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [Wannabe Batman]
-logo: minimal-master/assets/img/IMG_0879.jpeg
-![Thumbnail of Minimal](minimal-master/assets/img/IMG_0879.jpeg)
+logo: IMG_0879.png
 description: [resume is somewhat fake, I will not be publishing my profile online.]
