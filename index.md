@@ -61,3 +61,9 @@ Company_5
 *   Rode my bicycle to work and crashed
 *   I had a great time during those years
 *   Gained weight near the end
+
+***
+
+[MyLinkedIn](/www.linkedin.com/in/aeczuniga)
+##### _Please note, I am not an active user_ #####
+
