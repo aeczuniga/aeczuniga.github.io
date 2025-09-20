@@ -20,3 +20,26 @@ California State University of San Marcos      _May 2024_
 
 
 # Experience
+Position_1 (MBA project) 
+_Summer 2025_
+Company_1
+
+
+Position_2 (Intern) 
+_Summer 2024_
+Company_2
+
+
+Position_3 (Intern) 
+_Summer 2023_
+Company_3
+
+
+Position_4 
+_March 2020 - March 2022)_
+Company_4
+
+
+Position_5 
+_August 2017 - March 2020_
+Company_5
