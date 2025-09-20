@@ -20,27 +20,40 @@ California State University of San Marcos      _May 2024_
 
 
 # Experience
-
-
-
-### Position_1 (MBA project)     _Summer 2025_
+#### Position_1 (MBA project)     _Summer 2025_
 Company_1
-
+*   Stayed up a lot past midnight
+*   Great experience doing the project
+*   I did the research and my partner did the narrative
+*   I passed with an A
 
 
 #### Position_2 (Intern)      _Summer 2024_
 Company_2
-
+*   Lots of good food
+*   Used excel
+*   Lost some weight during summer
+*   Got ready for the MBA, not really.
 
 
 #### Position_3 (Intern)      _Summer 2023_
 Company_3
+*   I bought snacks for my team
+*   Lots of virtual meetings
+*   Lots of driving
+*   Hardly slept and lost some weight
 
 
-
-#### Position_4      _March 2020 - March 2022)_
+#### Position_4      _March 2020 - March 2022_
 Company_4
+*   Got to ride bicycles 
+*   Received great discounts
+*   Gained weight
+*   Rewrote the standard operating procedure for some processes
 
-
-#### Position_5      _August 2017 - March 2020_
+#### Position_5      _August 2016 - March 2020_
 Company_5
+*   Lots of great food
+*   Rode my bicycle to work and crashed
+*   I had a great time during those years
+*   Gained weight near the end
