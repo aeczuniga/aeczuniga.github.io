@@ -3,4 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: [casti295]
-description: [milestone_1]
+description: [milestone_1_fake_resume]
