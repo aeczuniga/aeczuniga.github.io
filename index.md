@@ -64,10 +64,8 @@ Company_5
 
 ***
 
-MyLinkedIn [www.linkedin.com/in/aeczuniga]
-
-##### _Please note, I am not an active user_ #####
+##### _MyLinkedIn [www.linkedin.com/in/aeczuniga]_ #####
 
 ```
-The end. 
+Please note, I am not an active user
 ```
