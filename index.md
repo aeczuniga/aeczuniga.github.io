@@ -64,7 +64,7 @@ Company_5
 
 ***
 
-[MyLinkedIn](index.html/www.linkedin.com/in/aeczuniga)
+MyLinkedIn (www.linkedin.com/in/aeczuniga)
 
 ##### _Please note, I am not an active user_ #####
 
