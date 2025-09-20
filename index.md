@@ -8,6 +8,8 @@ Public transportation has great potential, but public perception at the local go
 
 ```Obvviously, my idea is not complete, it is an idea, I have much more to say but I better stop. This is not the platform.```
 
+***
+
 # Education
 **Master of Science (MS), Supply Chain Analytics**          
 California State University of San Marcos      _Fall 2026_
@@ -18,6 +20,8 @@ California State University of San Marcos      _August 2025_
 **Bachelor of Arts (BA), Communication**          
 California State University of San Marcos      _May 2024_
 
+
+***
 
 # Experience
 #### Position_1 (MBA project)     _Summer 2025_
