@@ -67,5 +67,5 @@ Company_5
 ##### _MyLinkedIn [www.linkedin.com/in/aeczuniga]_ #####
 
 ```
-Please note, I am not an active user
+Please note, I am not an active user on LinkedIn. You will find me more likely at COSTCO buying fruits and veggies than online. If you really want to get in communication with me, email me.
 ```
