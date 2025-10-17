@@ -66,6 +66,8 @@ Company_5
 
 ##### _MyLinkedIn `www.linkedin.com/in/aeczuniga`_ #####
 
-```
-I am not an active user on LinkedIn, email me. You will find me more likely at COSTCO buying fruits and veggies than online.
-```
+```I am not an active user on LinkedIn, email me. You will find me more likely at COSTCO buying fruits and veggies than online.```
+
+
+# **Project Portfolio**
+[Milestone II](https://aeczuniga.github.io/subpage_1/)

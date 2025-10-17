@@ -25,24 +25,6 @@ In milestone I, I struggled and missed the deadline, GitHub's documents were not
     
 ```8. In VSCode, commit, sync changes, push```
 
-
-* 1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching
-
-* 2. Clone respository on computer using VSCode into a web-based folder like a personal OneDrive
-
-* 3. Download the [minimal-master] folder as a zip folder, open, and copy all contents into the repository on the computer
-
-* 4. Compy index.me, _config.yml files into main branch, out of the name folder
-
-* 5. select and export a photo as a headshot into the main branch
-
-* 6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)
-
-* 7. Create content for index.md file to deply on static site
-
-* 8. In VSCode, commit, sync changes, push
-
-
 ## _ADDITIONAL RESOURCES_
 
 
@@ -59,7 +41,3 @@ After comple!ng Task 1, create a subpage in your e-por#olio with the newly creat
 
 # **TASK 3**
 I am doing the reverse for this webpage, linking [Milestone II](https://aeczuniga.github.io/subpage_1/) to [Milestone I](https://aeczuniga.github.io/)
-
-
-Revisit your main page (in the root folder), and add a new section called projects with a link to the newly created subpage of Task 2.
-[costco weblink](https://costco.com).
