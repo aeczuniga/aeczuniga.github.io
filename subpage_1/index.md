@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # **TASK 1**
 * * * 
 
@@ -6,12 +10,13 @@
 With the subpage folder, I can retain the same site, theme, and layout. 
 
 In **Milestone I**, I struggled and missed the deadline, GitHub's documents were not helpful. 
-The instructions were not clear and thorough for me, it did not tell me that the purpose of [_config.yml] is to deploy  respository static webpage, nor did the `README.md` file from the `minimal-master` folder mention that. 
-I do not remember how I ended up being to complete **Milestone I**, I remeber struggling, cursing, frustration, and deleting my respository multiple times. What I ended up doing was having the `minimal-master` folder in a second branch or respository but the deployment files ([index.md], [_config.yml]) in the main branch or a different respository. 
+The instructions were not clear and thorough for me, it did not tell me that the purpose of **_config.yml** is to deploy  respository static webpage, nor did the **README.md** file from the **minimal-master** folder mention that. 
+I do not remember how I ended up being to complete **Milestone I**, I remeber struggling, cursing, frustration, and deleting my respository multiple times. What I ended up doing was having the **minimal-master** folder in a second branch or respository but the deployment files ([index.md], [_config.yml]) in the main branch or a different respository. 
 Since then, I have spent more time attempting **Milestone I**. 
 In one attempt, I kekpt the _minimal-master_ folder, `README.md` and ``LICENSE``file in the main branch. Creating a secondary branch to deploy to the static webpage, [_config.yml] and [index.md] but that does not work, what I write in the ~index.md~ is not reflecting in the static site. I receive an error code mentionig jerkyll, and something about a rubyfile. 
 Ultimately, I ended up fulfilling **Milestone I** by having all my documents in the same branch, {minimal-master} folder, [_config.yml] file, *index.md* file, ***LICENSE*** file, $README.md$ file, and 'picture_name.png'.
-
+==highlight==
+>>>>highlight
 
 ## _STEPS from MILESTONE I_
     
