@@ -2,18 +2,3 @@
 ---
 
 @import "jekyll-theme-minimal";
-
-/* Override theme container width to make content area wider */
-.wrapper {
-	/* Fluid width with a larger cap for big screens */
-	width: 95%;
-	max-width: 3000px; /* increase/decrease this to taste */
-	margin: 0 auto;
-}
-
-/* Optional: allow even wider on very large displays */
-@media (min-width: 2500px) {
-	.wrapper {
-		max-width: 3000px;
-	}
-}
