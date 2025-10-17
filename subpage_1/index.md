@@ -10,20 +10,26 @@ layout: default
 
 In **Milestone I**, I struggled and missed the deadline, GitHub's documents was not helpful. The instructions were not clear and thorough for me, it did not tell me that the purpose of `_config.yml` is to deploy  the  static webpage, nor did the `README.md` file from the **minimal-master** folder mention that. I do not remember how I was able complete **Milestone I**, I remeber struggling, cursing, feeling frustrated, and deleting my respository multiple times. I was able to complete **Milestone I** by having the **minimal-master** folder in a second branch or respository but the deployment files `index.md`, `_config.yml` in the main branch or a different respository. 
 
-Since then, I have spent more time attempting **Milestone I**. In one attempt, I kept the **minimal-master** folder, `README.md` and `LICENSE` files in the main branch. Creating a secondary branch to deploy to the static webpage with the files `_config.yml` and `index.md` but that did not work, what is written in the `index.md` file is not reflecting in the static site. I receive an error code mentionig jerkyll, and something about a rubyfile. Ultimately, I have completed **Milestone I** by having all my documents in the same branch, **minimal-master** folder, `_config.yml` file, `index.md` file, `LICENSE` file, `README.md* file, and 
-`picture_name.png`.
+Since then, I have spent more time attempting **Milestone I**. In one attempt, I kept the **minimal-master** folder, `README.md` and `LICENSE` files in the main branch. Creating a secondary branch to deploy to the static webpage with the files `_config.yml` and `index.md` but that did not work, what is written in the `index.md` file is not reflecting in the static site. I receive an error code mentionig jerkyll, and something about a rubyfile. Ultimately, I have completed **Milestone I** by having all my documents in the same branch, **minimal-master** folder, `_config.yml` file, `index.md` file, `LICENSE` file, `README.md` file, and `picture_name.png`.
 
 
 
 ### _STEPS from MILESTONE I_
     
 ``1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching``
+
 ``2. Clone respository on computer using VSCode into a web-based folder like a personal OneDrive`` 
+
 ``3. Download the [minimal-master] folder as a zip folder, open, and copy all contents into the repository on the computer``
+
 ``4. Compy index.me, _config.yml files into main branch, out of the name folder``
+
 ``5. select and export a photo as a headshot into the main branch``    
+
 ``6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)``
+
 ``7. create content for index.md file to deply on static site``  
+
 ``8. In VSCode, commit, sync changes, push``
 
 
