@@ -26,14 +26,21 @@ In milestone I, I struggled and missed the deadline, GitHub's documents were not
 ```8. In VSCode, commit, sync changes, push```
 
 
-* Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching
-* Clone respository on computer using VSCode into a web-based folder like a personal OneDrive
-* Download the [minimal-master] folder as a zip folder, open, and copy all contents into the repository on the computer
-* Compy index.me, _config.yml files into main branch, out of the name folder
-* select and export a photo as a headshot into the main branch
-* utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)
-* Create content for index.md file to deply on static site
-* In VSCode, commit, sync changes, push
+* 1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching
+
+* 2. Clone respository on computer using VSCode into a web-based folder like a personal OneDrive
+
+* 3. Download the [minimal-master] folder as a zip folder, open, and copy all contents into the repository on the computer
+
+* 4. Compy index.me, _config.yml files into main branch, out of the name folder
+
+* 5. select and export a photo as a headshot into the main branch
+
+* 6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)
+
+* 7. Create content for index.md file to deply on static site
+
+* 8. In VSCode, commit, sync changes, push
 
 
 ## _ADDITIONAL RESOURCES_
