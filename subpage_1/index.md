@@ -25,11 +25,11 @@ Since then, I have spent more time attempting **Milestone I**. In one attempt, I
 
 4. Compy `index.me`, `_config.yml` files into main branch, out of the name folder
 
-5. select and export a photo as a headshot into the main branch
+5. Select and export a photo as a headshot into the main branch
 
-6. utilize `README.md` file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)
+6. Utilize `README.md` file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)
 
-7. create content for index.md file to deply on static site
+7. Create content for index.md file to deply on static site
 
 8. In VSCode, commit, sync changes, push
 ```
