@@ -15,16 +15,16 @@ In milestone I, I struggled and missed the deadline, GitHub's documents were not
     5. select and export a photo as a headshot into the main branch
     6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)
     7. create content for index.md file to deply on static site
-    8. On VSCode, commit, push, and sync
+    8. In VSCode, commit, sync changes, push
 ## _ADDITIONAL RESOURCES_
 
 
 ## _PORTFOLIO SCREENSHOTS_
 EXTRA STUFF
-![0, wider view](./II_images/image_0.png)
-![1, more focused view of the top half](./II_images/image_1.png)
-![2, more focused view of the bottom half](./II_images/image_2.png)
-![3, little extra for good measure](./II_images/image_3.png)
+![0, wider view](../II_images/image_0.png)
+![1, more focused view of the top half](../II_images/image_1.png)
+![2, more focused view of the bottom half](../II_images/image_2.png)
+![3, little extra for good measure](../II_images/image_3.png)
 
 # **TASK 2**
 After comple!ng Task 1, create a subpage in your e-por#olio with the newly created markdown file.
@@ -32,4 +32,4 @@ After comple!ng Task 1, create a subpage in your e-por#olio with the newly creat
 
 # **TASK 3**
 Revisit your main page (in the root folder), and add a new section called projects with a link to the newly created subpage of Task 2.
-[Link to another page](costco.com).
+[costco weblink](https://costco.com).
