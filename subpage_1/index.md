@@ -17,9 +17,9 @@ I do not remember how I ended up being to complete Milestone I, I remeber strugg
 
 Since then, I have spent more time attempting **Milestone I**. 
 
-In one attempt, I kekpt the _minimal-master_ folder, `README.md` and `LICENSE` file in the main branch. Creating a secondary branch to deploy to the static webpage, [_config.yml] and [index.md] but that does not work, what I write in the ~index.md~ is not reflecting in the static site. I receive an error code mentionig jerkyll, and something about a rubyfile. 
+In one attempt, I kept the _minimal-master_ folder, `README.md` and `LICENSE` file in the main branch. Creating a secondary branch to deploy to the static webpage, `_config.yml` and **index.md** but that does not work, what I write in the **index.md** is not reflecting in the static site. I receive an error code mentionig jerkyll, and something about a rubyfile. 
 
-Ultimately, I ended up fulfilling **Milestone I** by having all my documents in the same branch, {minimal-master} folder, [_config.yml] file, *index.md* file, ***LICENSE*** file, $README.md$ file, and 'picture_name.png'.
+Ultimately, I ended up fulfilling **Milestone I** by having all my documents in the same branch, **minimal-master** folder, **_config.yml** file, **index.md** file, ***LICENSE file***, **README.md** file, and **picture_name.png**.
 
 
 
@@ -43,7 +43,9 @@ Ultimately, I ended up fulfilling **Milestone I** by having all my documents in 
 
 
 ## _ADDITIONAL RESOURCES_
+I tried watching YouTube videos to understand GitHub but it was not very useful. I have spent nearly 20 hours on **Milestone I** and do not feel much better. After finding a way to complete **Milestone I**, I decided to focus on adjusting the visual static site. I was not certain where to begin, I just knew I wanted the colummns wider. I tried using AI during commitments "2_13" to "2_15_2" I pushed 12 commitments. I did not achieve the result I wanted, anytime the `index` column became wider, the columns were no longer centered, I wanted to increase column width, reataining the same layout structure. For commitment "2_16_restart", I deleted the **minimal-master** folder where changes had been made and replaced it with another **minimal-master** folder from the downloaded zip file from **Milestone I**, like a "fesh start." Nothing really changed that is visible, I kept my static site and what I wrote, removing various attempts by AI and I changing `px` values. 
 
+I did not use any AI help for **Milestone II**. 
 
 
 ## _PORTFOLIO SCREENSHOTS_
@@ -55,8 +57,7 @@ Ultimately, I ended up fulfilling **Milestone I** by having all my documents in 
 # **TASK 2**
 * * * 
 
-After comple!ng Task 1, create a subpage in your e-por#olio with the newly created markdown file.
-
+***done***
 
 
 # **TASK 3**
