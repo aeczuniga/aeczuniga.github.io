@@ -7,6 +7,7 @@ With the subpage folder, I can retain the same site, theme, and layout.
 In milestone I, I struggled and missed the deadline, GitHub's documents were not helpful. The instructions were not clear and thorough for me, it did not tell me that the purpose of [_config.yml] is to deploy the static webpage, nor did the [README.md] file from the `minimal-master` folder mention that.
 
 
+
 ## _STEPS from MILESTONE I_
     
 ```1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching```
@@ -25,7 +26,9 @@ In milestone I, I struggled and missed the deadline, GitHub's documents were not
     
 ```8. In VSCode, commit, sync changes, push```
 
+
 ## _ADDITIONAL RESOURCES_
+
 
 
 ## _PORTFOLIO SCREENSHOTS_
@@ -35,9 +38,11 @@ EXTRA STUFF
 ![2, more focused view of the bottom half](../II_images/image_2.png)
 ![3, little extra for good measure](../II_images/image_3.png)
 
+
 # **TASK 2**
 After comple!ng Task 1, create a subpage in your e-por#olio with the newly created markdown file.
 
 
 # **TASK 3**
-I am doing the reverse for this webpage, linking [Milestone II](https://aeczuniga.github.io/subpage_1/) to [Milestone I](https://aeczuniga.github.io/)
+[Milestone I](https://aeczuniga.github.io/)
+[Milestone II](https://aeczuniga.github.io/subpage_1/)
