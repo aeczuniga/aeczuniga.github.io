@@ -1,7 +1,7 @@
 # **TASK 1**
 
 ## _INTRODUCTION_
-**Milestone II** creates a second [index.md] file nested in the responsitory and main branch used in **Milestone I**, incorporating the second [index.md] file into the static webpage. If I delete the [/subpage_1/] from the url [Milestone II w/subpage_1][https://aeczuniga.github.io/subpage_1/], the webpage defaults to the [index.md] from **Milestone I**. 
+**Milestone II** creates a second [index.md] file nested in the responsitory and main branch used in **Milestone I**, incorporating the second [index.md] file into the static webpage. If I delete the **/subpage_1/** from the url [Milestone II w/subpage_1](https://aeczuniga.github.io/subpage_1/), the webpage defaults to the [index.md] from **Milestone I**. 
 With the subpage folder, I can retain the same site, theme, and layout. 
 
 In milestone I, I struggled and missed the deadline, GitHub's documents were not helpful. The instructions were not clear and thorough for me, it did not tell me that the purpose of [_config.yml] is to deploy the static webpage, nor did the [README.md] file from the `minimal-master` folder mention that.
@@ -9,21 +9,21 @@ In milestone I, I struggled and missed the deadline, GitHub's documents were not
 
 ## _STEPS from MILESTONE I_
     
-    ```1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching```
+```1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching```
     
-    ```2. Clone respository on computer using VSCode into a web-based folder like a personal OneDrive```
+```2. Clone respository on computer using VSCode into a web-based folder like a personal OneDrive```
     
-    ```3. Download the [minimal-master] folder as a zip folder, open, and copy all contents into the repository on the computer```
+```3. Download the [minimal-master] folder as a zip folder, open, and copy all contents into the repository on the computer```
     
-    ```4. Compy index.me, _config.yml files into main branch, out of the name folder```
+```4. Compy index.me, _config.yml files into main branch, out of the name folder```
     
-    ```5. select and export a photo as a headshot into the main branch```
+```5. select and export a photo as a headshot into the main branch```
     
-    ```6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)```
+```6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)```
     
-    ```7. create content for index.md file to deply on static site```
+```7. create content for index.md file to deply on static site```
     
-    ```8. In VSCode, commit, sync changes, push```
+```8. In VSCode, commit, sync changes, push```
 
 
 * Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching
