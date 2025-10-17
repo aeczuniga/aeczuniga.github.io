@@ -16,6 +16,7 @@ In milestone I, I struggled and missed the deadline, GitHub's documents were not
     6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)
     7. create content for index.md file to deply on static site
     8. In VSCode, commit, sync changes, push
+
 ## _ADDITIONAL RESOURCES_
 
 
