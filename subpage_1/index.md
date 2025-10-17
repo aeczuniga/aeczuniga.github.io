@@ -16,7 +16,8 @@ Since then, I have spent more time attempting **Milestone I**. In one attempt, I
 
 ### _STEPS from MILESTONE I_
     
-```1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching
+```
+1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching
 
 2. Clone respository on computer using VSCode into a web-based folder like a personal OneDrive
 
