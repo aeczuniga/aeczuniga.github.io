@@ -21,13 +21,13 @@ Since then, I have spent more time attempting **Milestone I**. In one attempt, I
 
 2. Clone respository on computer using VSCode into a web-based folder like a personal OneDrive
 
-3. Download the [minimal-master] folder as a zip folder, open, and copy all contents into the repository on the computer
+3. Download the [**minimal-master theme folder from GitHub**](https://github.com/pages-themes/minimal) folder as a zip folder, open, and copy all contents into the repository on the computer
 
-4. Compy index.me, _config.yml files into main branch, out of the name folder
+4. Compy `index.me`, `_config.yml` files into main branch, out of the name folder
 
 5. select and export a photo as a headshot into the main branch
 
-6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)
+6. utilize `README.md` file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)
 
 7. create content for index.md file to deply on static site
 
@@ -39,7 +39,7 @@ Since then, I have spent more time attempting **Milestone I**. In one attempt, I
 I tried watching YouTube videos to understand GitHub but it was not very useful. I have spent nearly 20 hours on **Milestone I** and do not feel much better. After finding a way to complete **Milestone I**, I decided to focus on adjusting the visual static site. I was not certain where to begin, I wanted the colummns wider. I used AI during commitments "2_13" to "2_15_2", pushing 12 commitments. I did not achieve the result I wanted, anytime the `index` column became wider, the columns were no longer centered, I wanted to increase column width, reataining the same layout structure. For commitment "2_16_restart", I deleted the **`minimal-master`** folder where changes had been made and replaced it with another `minimal-master` folder from the downloaded zip file from **Milestone I**, like a "fesh start." Nothing really changed that is visible, I kept my static site and what I wrote, removing various attempts by AI and I changing `px` values. Through the various attempts I utilzied AI, I noticed that the layout could be adjust by adding an `_includes` folder to the main brach, separate of the **minimal-master** folder with the theme files. The static site would use the ***head-custom.html*** file from the `_includes` folder in the main branch, bypassing the ***head-custom.html*** file in the **minimal-master** folder. I also tried changing the px values in the **../minimal-master/_sass/jekyll-theme-minimal.scss** folder but that did not have a visible effect on the static webpage.
 
 I did not use any AI help for **Milestone II**. 
-[minimal-theme from GitHub](https://github.com/pages-themes/minimal)
+
 
 ### _PORTFOLIO SCREENSHOTS_
 A wider view of the static webpage on an Apple display
