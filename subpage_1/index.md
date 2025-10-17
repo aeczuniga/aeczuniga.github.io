@@ -6,47 +6,38 @@ layout: default
 * * * 
 
 ## _INTRODUCTION_
-**Milestone II** creates a second [index.md] file nested in the responsitory and main branch used in **Milestone I**, incorporating the second **index.md** file into the static webpage. If I delete the **subpage_/** from the url [Milestone II w/subpage_1](https://aeczuniga.github.io/subpage_1/), the webpage defaults to the [index.md] from **Milestone I**. 
-With the subpage folder, I can retain the same site, theme, and layout. 
+**Milestone II** creates a second **index.md** file nested in the responsitory and main branch used in **Milestone I**, incorporating the second **index.md** file into the static webpage. If I delete the **subpage_/** from the url [Milestone II](https://aeczuniga.github.io/subpage_1/), the webpage defaults to the [index.md] from **Milestone I**. 
 
-In **Milestone I**, I struggled and missed the deadline, GitHub's documents were not helpful. 
+In **Milestone I**, I struggled and missed the deadline, GitHub's documents were not helpful. The instructions were not clear and thorough for me, it did not tell me that the purpose of **_config.yml** is to deploy  the  static webpage, nor did the **README.md** file from the **minimal-master** folder mention that. I do not remember how I was able complete Milestone I, I remeber struggling, cursing, feeling frustrated, and deleting my respository multiple times. I remember having the **minimal-master** folder in a second branch or respository but the deployment files **index.md**, **_config.yml** in the main branch or a different respository. 
 
-The instructions were not clear and thorough for me, it did not tell me that the purpose of _config.yml is to deploy  respository static webpage, nor did the README.md file from the minimal-master folder mention that. 
-
-I do not remember how I ended up being to complete Milestone I, I remeber struggling, cursing, frustration, and deleting my respository multiple times. What I ended up doing was having the minimal-master folder in a second branch or respository but the deployment files index.md, _config.yml in the main branch or a different respository. 
-
-Since then, I have spent more time attempting **Milestone I**. 
-
-In one attempt, I kept the _minimal-master_ folder, `README.md` and `LICENSE` file in the main branch. Creating a secondary branch to deploy to the static webpage, `_config.yml` and **index.md** but that does not work, what I write in the **index.md** is not reflecting in the static site. I receive an error code mentionig jerkyll, and something about a rubyfile. 
-
-Ultimately, I ended up fulfilling **Milestone I** by having all my documents in the same branch, **minimal-master** folder, **_config.yml** file, **index.md** file, ***LICENSE file***, **README.md** file, and **picture_name.png**.
+Since then, I have spent more time attempting **Milestone I**. In one attempt, I kept the **minimal-master** folder, `README.md` and `LICENSE` file in the main branch. Creating a secondary branch to deploy to the static webpage with the files `_config.yml` and **index.md** but that did not work, what is written in the **index.md** file is not reflecting in the static site. I receive an error code mentionig jerkyll, and something about a rubyfile. Ultimately, I have completed **Milestone I** by having all my documents in the same branch, **minimal-master** folder, **_config.yml** file, **index.md** file, ***LICENSE file***, **README.md** file, and **picture_name.png**.
 
 
 
 ## _STEPS from MILESTONE I_
     
-```1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching```
+``1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching``
     
-```2. Clone respository on computer using VSCode into a web-based folder like a personal OneDrive```
+``2. Clone respository on computer using VSCode into a web-based folder like a personal OneDrive``
     
-```3. Download the [minimal-master] folder as a zip folder, open, and copy all contents into the repository on the computer```
+``3. Download the [minimal-master] folder as a zip folder, open, and copy all contents into the repository on the computer``
     
-```4. Compy index.me, _config.yml files into main branch, out of the name folder```
+``4. Compy index.me, _config.yml files into main branch, out of the name folder``
     
-```5. select and export a photo as a headshot into the main branch```
+``5. select and export a photo as a headshot into the main branch``
     
-```6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)```
+``6. utilize README.md file from main repository, **not minimal-master folder** , to configure _config.yml (static webpage)``
     
-```7. create content for index.md file to deply on static site```
+``7. create content for index.md file to deply on static site``
     
-```8. In VSCode, commit, sync changes, push```
+``8. In VSCode, commit, sync changes, push``
 
 
 ## _ADDITIONAL RESOURCES_
 I tried watching YouTube videos to understand GitHub but it was not very useful. I have spent nearly 20 hours on **Milestone I** and do not feel much better. After finding a way to complete **Milestone I**, I decided to focus on adjusting the visual static site. I was not certain where to begin, I just knew I wanted the colummns wider. I tried using AI during commitments "2_13" to "2_15_2" I pushed 12 commitments. I did not achieve the result I wanted, anytime the `index` column became wider, the columns were no longer centered, I wanted to increase column width, reataining the same layout structure. For commitment "2_16_restart", I deleted the **minimal-master** folder where changes had been made and replaced it with another **minimal-master** folder from the downloaded zip file from **Milestone I**, like a "fesh start." Nothing really changed that is visible, I kept my static site and what I wrote, removing various attempts by AI and I changing `px` values. Through the various attempts I utilzied AI, I noticed that the layout could be adjust by adding an **_includes** folder to the main brach, separate of the **minimal-master** folder with the theme files. The static site would use the **head-custom.html** file from the **_includes** folder in the main branch, bypassing the **head-custom.html** file in the **minimal-master** folder. I also tried changing the px values in the **../minimal-master/_sass/jekyll-theme-minimal.scss** but that did not do anything.
 
 I did not use any AI help for **Milestone II**. 
-
+[minimal-theme from GitHub](https://github.com/pages-themes/minimal)
 
 ## _PORTFOLIO SCREENSHOTS_
 ![0, wider view](../II_images/image_0.png)
