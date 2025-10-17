@@ -1,41 +1,9 @@
-<style>
-  /* Make layout much wider using percentage; remove pixel cap */
-  .wrapper {
-    width: 96%;      /* use most of the viewport width */
-    max-width: none; /* no fixed pixel cap so it scales with the screen */
-    margin: 0 auto;  /* keep it centered */
-  }
+<!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-  /* Keep media responsive and within the container */
-  img, video, svg {
-    max-width: 100%;
-    height: auto;
-  }
+<!-- Setup Google Analytics -->
+{% include head-custom-google-analytics.html %}
 
-  /* Desktop: replace float/fixed layout with a flexible grid */
-  @media (min-width: 961px) {
-    .wrapper {
-      display: grid;
-      grid-template-columns: 300px 1fr; /* left column (nav), wide content column */
-      gap: 40px;
-    }
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}" -->
 
-    header, section, footer {
-      float: none !important;
-      position: static !important;
-      width: auto !important;
-    }
-
-    header { grid-column: 1; }
-    section { grid-column: 2; }
-    footer { grid-column: 1 / -1; }
-
-    /* Optional: make the grid even roomier on ultra-wide screens */
-    @media (min-width: 1600px) {
-      .wrapper {
-        grid-template-columns: 320px 1fr;
-        gap: 56px;
-      }
-    }
-  }
-</style>
+<!-- end custom head snippets -->
