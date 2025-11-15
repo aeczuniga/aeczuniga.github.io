@@ -5,7 +5,11 @@ This subpage is the README file for a new repository with previous homework assi
 
 
 It is not in your interest to utilize any of the information, there are errors. I am learning. Again, this repository is for homework assignments for Dr. Karimi, California State University of San Marcos. 
+
+New GitHub Repository for homework assignments [aeczuniga.github.io](https://github.com/aeczuniga/MSSCA_karimi_assignments)
+
 Main GitHub page [aeczuniga.github.io](https://aeczuniga.github.io/)
+
 
 # Assignments
 **GitHub**
