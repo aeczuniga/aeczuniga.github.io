@@ -73,3 +73,5 @@ Company_5
 [Milestone I](https://aeczuniga.github.io/)
 
 [Milestone II](https://aeczuniga.github.io/subpage_1/)
+
+[Milestone III](https://aeczuniga.github.io/subpage_2/)
