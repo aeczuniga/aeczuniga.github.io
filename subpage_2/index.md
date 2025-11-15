@@ -55,7 +55,10 @@ The **second Python assignment**  continues using the data from the previous ass
 * * * 
 
 [Milestone I](https://aeczuniga.github.io/)
+Created a GitHub account and main repository, deploying a static webpage.
 
 [Milestone II](https://aeczuniga.github.io/subpage_1/)
+Explains the challenges I encountered in Milestone I.
 
 [Milestone III](https://aeczuniga.github.io/subpage_2/)
+Createed a second webpage with a new repository.
