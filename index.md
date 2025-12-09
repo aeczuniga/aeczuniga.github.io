@@ -70,14 +70,14 @@ Company_5
 
 
 # **Project Portfolio**
-[Milestone I](https://aeczuniga.github.io/)
+[How I deployed a static webpage on GitHub](https://aeczuniga.github.io/)
 
-Created a GitHub account and main repository, deploying a static webpage.
+Milestone I
 
-[Milestone II](https://aeczuniga.github.io/subpage_1/)
+[The challenges I experieced deploying a Github webpage. I am learning.](https://aeczuniga.github.io/subpage_1/)
 
-Explains the challenges I encountered in Milestone I.
+Milestone II
 
-[Milestone III](https://aeczuniga.github.io/subpage_2/)
+[Linking my new repository for homework assignments to this.](https://aeczuniga.github.io/subpage_2/)
 
-Createed a second webpage with a new repository.
+Milestone III
