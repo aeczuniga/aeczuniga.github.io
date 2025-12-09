@@ -14,9 +14,9 @@ Main GitHub page [aeczuniga.github.io](https://aeczuniga.github.io/)
 # Assignments
 **GitHub**
 
-The **first milestone** on GitHub was building a creating an account and deploying a webpage. Viewable by selecting [aeczuniga.github.io (assignment I)](https://aeczuniga.github.io/)
+The **How I deployed a static webpage on GitHub** assignment on GitHub was building a creating an account and deploying a webpage. Viewable by selecting [aeczuniga.github.io (assignment I)](https://aeczuniga.github.io/)
 
-The **second milestone** on GitHub discusses how the first assignment was created and includes a webpage (subpage) within the main webpage. Viewable by selecting [aeczuniga.github.io (assignment II)](https://aeczuniga.github.io/subpage_1/)
+The **The challenges I experieced deploying a Github webpage. I am learning** assignment on GitHub discusses how the first assignment was created and includes a webpage (subpage) within the main webpage. Viewable by selecting [aeczuniga.github.io (assignment II)](https://aeczuniga.github.io/subpage_1/)
 
 
 **Python**
@@ -58,14 +58,12 @@ The **second Python assignment**  continues using the data from the previous ass
 
 * * * 
 
-[How I deployed a static webpage on GitHub](https://aeczuniga.github.io/)
+# **Project Portfolio**
+Again, please understand I am learning and I am documenting my experience.
 
-Milestone I
+
+[How I deployed a static webpage on GitHub](https://aeczuniga.github.io/)
 
 [The challenges I experieced deploying a Github webpage. I am learning.](https://aeczuniga.github.io/subpage_1/)
 
-Milestone II
-
 [Linking my new repository for homework assignments to this.](https://aeczuniga.github.io/subpage_2/)
-
-Milestone III

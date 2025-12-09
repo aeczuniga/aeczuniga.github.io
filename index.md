@@ -70,14 +70,11 @@ Company_5
 
 
 # **Project Portfolio**
-[How I deployed a static webpage on GitHub](https://aeczuniga.github.io/)
+Again, please understand I am learning and I am documenting my experience.
 
-Milestone I
+
+[How I deployed a static webpage on GitHub](https://aeczuniga.github.io/)
 
 [The challenges I experieced deploying a Github webpage. I am learning.](https://aeczuniga.github.io/subpage_1/)
 
-Milestone II
-
 [Linking my new repository for homework assignments to this.](https://aeczuniga.github.io/subpage_2/)
-
-Milestone III

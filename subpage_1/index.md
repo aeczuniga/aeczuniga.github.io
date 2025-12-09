@@ -14,7 +14,7 @@ Since then, I have spent more time attempting **Milestone I**. In one attempt, I
 
 
 
-### _STEPS from MILESTONE I_
+### _STEPS to How I made and deployed my static webpage_
     
 
 1. Create a respository titled aeczuniga.github.io, selecting an MIT license and creating a README.md file when launching
@@ -54,24 +54,12 @@ A more focused view of the bottom half of the static webpage
 ![2, more focused view of the bottom half](../II_images/image_2.png)
 
 
+# **Project Portfolio**
+Again, please understand I am learning and I am documenting my experience.
 
-# **TASK 2**
-* * * 
-
-***done***
-
-
-# **TASK 3**
-* * * 
 
 [How I deployed a static webpage on GitHub](https://aeczuniga.github.io/)
 
-Milestone I
-
 [The challenges I experieced deploying a Github webpage. I am learning.](https://aeczuniga.github.io/subpage_1/)
 
-Milestone II
-
 [Linking my new repository for homework assignments to this.](https://aeczuniga.github.io/subpage_2/)
-
-Milestone III
