@@ -2,8 +2,12 @@
 layout: default
 ---
 
-# **TASK 1 | How I made and deployed my static webpage**
+# **How I made and deployed my static webpage**
 * * * 
+
+Milestone I = How I deployed a static webpage on GitHub
+Milestone II = The challenges I experieced deploying a Github webpage
+
 
 ### _INTRODUCTION_
 **Milestone II** creates a second `index.md` file nested in the responsitory and main branch used in **Milestone I**, incorporating the second `index.md` file into the static webpage. If I delete the `subpage_/` portion from the  in [**Milestone II**](https://aeczuniga.github.io/subpage_1/), the webpage defaults to the `index.md` from **Milestone I**. 
