@@ -6,7 +6,7 @@ Depending on the region, some non-profit organizations are starting to offer sho
 Public transportation has great potential, but public perception at the local government must support it to prove the concept at the federal government. It does not take much to realize that Tesla recognizes the potential of ride-services, vehicle ownership keeps increasing and public transportation is more economical. There are many models in public transportation, carpools, sharing vehicles, sharing the cost of maintenance & gas......
 
 
-```Obvviously, my idea is not complete, it is an idea, I have much more to say but I better stop. This is not the platform.```
+```Obvviously, my idea is not complete, it is an idea, I have much more to say but I better stop. This is not the platform..```
 
 ***
 
