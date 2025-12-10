@@ -37,7 +37,7 @@ The **first question** is creating data transformations, filtering MTS from the 
 
 The **second question** calculates SS for SKUs that are MTS at three different service levels (SL), 75%, 90%, an 95%. At a 95% SL, SKU 528EC5AC has a SS of 337 units and SKU 9ED24ECA has a SS of 32 units.
 
-the **third question** compares the SKUs by SS and the average. The average SS is 105 units (rounded down) in the filtered SKUs.
+The **third question** compares the SKUs by SS and the average. The average SS is 105 units (rounded down) in the filtered SKUs.
 
 
 * * * 
