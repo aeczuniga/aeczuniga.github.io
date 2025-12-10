@@ -77,6 +77,6 @@ Again, please understand I am learning and I am documenting my experience.
 
 [How I deployed a static webpage and the challenges I experieced.](https://aeczuniga.github.io/subpage_1/)
 
-[Linking my new repository for homework assignments to this. OM_620 or OM_621.](https://aeczuniga.github.io/subpage_2/)
+[Homework repository, OM_620.](https://aeczuniga.github.io/subpage_2/)
 
-[Linking my new repository for homework assignments to this. OM_620 or OM_621.](https://aeczuniga.github.io/subpage_3/)
+[Homework repository, OM_621.](https://aeczuniga.github.io/subpage_3/)
