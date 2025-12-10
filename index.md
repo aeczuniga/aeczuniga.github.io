@@ -73,8 +73,6 @@ Company_5
 Again, please understand I am learning and I am documenting my experience.
 
 
-[Static Github Page](https://aeczuniga.github.io/)
-
 [How I deployed a static webpage and the challenges I experieced.](https://aeczuniga.github.io/subpage_1/)
 
 [Homework repository, OM_620.](https://aeczuniga.github.io/subpage_2/)
