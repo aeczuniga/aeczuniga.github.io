@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-This subpage is the README file for a new repository with previous homework assignments done in Python. It is not in your interest to utilize any of the information, there are errors. I am learning. Again, this repository is for homework assignments for Dr. Karimi, California State University of San Marcos. 
+This subpage is the README file for a new repository with previous homework assignments done in Python, **OM_620**. It is not in your interest to utilize any of the information, there are errors. I am learning. Again, this repository is for homework assignments for Dr. Karimi, California State University of San Marcos. 
 
 **New GitHub Repository for homework assignments** [github.com/aeczuniga/MSSCA_karimi_assignments](https://github.com/aeczuniga/MSSCA_karimi_assignments)
 
@@ -47,6 +47,6 @@ Again, please understand I am learning and I am documenting my experience.
 
 [How I deployed a static webpage on GitHub](https://aeczuniga.github.io/)
 
-[The challenges I experieced deploying a Github webpage. I am learning.](https://aeczuniga.github.io/subpage_1/)
+[The challenges I experieced deploying a Github webpage.](https://aeczuniga.github.io/subpage_1/)
 
-[Linking my new repository for homework assignments to this.](https://aeczuniga.github.io/subpage_2/)
+[Linking my new repository for homework assignments to this. OM_620_assignments](https://aeczuniga.github.io/subpage_2/)
