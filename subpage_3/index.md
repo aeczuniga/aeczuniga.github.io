@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+# **OM_621**
+* * * 
+
 This subpage is the README file for a new repository with previous homework assignments done in Python, **OM_621**. It is not in your interest to utilize any of the information, there are errors. I am learning. Again, this repository is for homework assignments for Dr. Karimi, California State University of San Marcos. 
 
 **GitHub Homework Repository, OM_621** [github.com/aeczuniga/MSSCA_karimi_assignments](https://github.com/aeczuniga/MSSCA_karimi_assignments)
