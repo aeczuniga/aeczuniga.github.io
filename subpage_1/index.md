@@ -6,6 +6,7 @@ layout: default
 * * * 
 
 Milestone I = How I deployed a static webpage on GitHub
+
 Milestone II = The challenges I experieced deploying a Github webpage
 
 
@@ -39,7 +40,7 @@ Since then, I have spent more time attempting **Milestone I**. In one attempt, I
 
 
 
-### _ADDITIONAL RESOURCES_
+### _The challenges I experieced_
 I tried watching YouTube videos to understand GitHub but it was not very useful. I have spent nearly 20 hours on **Milestone I** and do not feel much better. After finding a way to complete **Milestone I**, I decided to focus on adjusting the visual static site. I was not certain where to begin, I wanted the colummns wider. I used AI during commitments "2_13" to "2_15_2", pushing 12 commitments. I did not achieve the result I wanted, anytime the `index` column became wider, the columns were no longer centered, I wanted to increase column width, reataining the same layout structure. For commitment "2_16_restart", I deleted the **`minimal-master`** folder where changes had been made and replaced it with another `minimal-master` folder from the downloaded zip file from **Milestone I**, like a "fesh start." Nothing really changed that is visible, I kept my static site and what I wrote, removing various attempts by AI and I changing `px` values. Through the various attempts I utilzied AI, I noticed that the layout could be adjust by adding an `_includes` folder to the main brach, separate of the **minimal-master** folder with the theme files. The static site would use the ***head-custom.html*** file from the `_includes` folder in the main branch, bypassing the ***head-custom.html*** file in the **minimal-master** folder. I also tried changing the px values in the **../minimal-master/_sass/jekyll-theme-minimal.scss** folder but that did not have a visible effect on the static webpage.
 
 I did not use any AI help for **Milestone II**. 
@@ -62,8 +63,8 @@ A more focused view of the bottom half of the static webpage
 Again, please understand I am learning and I am documenting my experience.
 
 
-[How I deployed a static webpage on GitHub](https://aeczuniga.github.io/)
+[aeczuniga.github.io](https://aeczuniga.github.io/)
 
-[The challenges I experieced deploying a Github webpage.](https://aeczuniga.github.io/subpage_1/)
+[How I deployed a static webpage and the challenges I experieced.](https://aeczuniga.github.io/subpage_1/)
 
 [Linking my new repository for homework assignments to this.](https://aeczuniga.github.io/subpage_2/)

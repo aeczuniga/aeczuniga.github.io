@@ -45,8 +45,8 @@ the **third question** compares the SKUs by SS and the average. The average SS i
 Again, please understand I am learning and I am documenting my experience.
 
 
-[How I deployed a static webpage on GitHub](https://aeczuniga.github.io/)
+[aeczuniga.github.io](https://aeczuniga.github.io/)
 
-[The challenges I experieced deploying a Github webpage.](https://aeczuniga.github.io/subpage_1/)
+[How I deployed a static webpage and the challenges I experieced.](https://aeczuniga.github.io/subpage_1/)
 
-[Linking my new repository for homework assignments to this. OM_620_assignments](https://aeczuniga.github.io/subpage_2/)
+[Linking my new repository for homework assignments to this.](https://aeczuniga.github.io/subpage_2/)
