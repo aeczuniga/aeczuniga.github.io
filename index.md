@@ -73,8 +73,10 @@ Company_5
 Again, please understand I am learning and I am documenting my experience.
 
 
-[aeczuniga.github.io](https://aeczuniga.github.io/)
+[Static Github Page](https://aeczuniga.github.io/)
 
 [How I deployed a static webpage and the challenges I experieced.](https://aeczuniga.github.io/subpage_1/)
 
-[Linking my new repository for homework assignments to this.](https://aeczuniga.github.io/subpage_2/)
+[Linking my new repository for homework assignments to this. OM_620 or OM_621.](https://aeczuniga.github.io/subpage_2/)
+
+[Linking my new repository for homework assignments to this. OM_620 or OM_621.](https://aeczuniga.github.io/subpage_3/)
