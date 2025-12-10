@@ -23,7 +23,7 @@ The **second question** is looking at "oddities" in the dataset, outliers. I use
 
 Another realization is the the lead time, it is large.
 
-The **third question** is finding _null | NaN | empty_ values. Using the **_print_** function identifies the amount of null values per column. Knowing that I want to calculate safety stock (SS) values by SKU, I want to drop _null | NaN | empty_ values in the sku column. I use a **_dropna_** function.
+The **third question** is finding _null, NaN, empty_  values. Using the **_print_** function identifies the amount of null values per column. Knowing that I want to calculate safety stock (SS) values by SKU, I want to drop _null, NaN, empty_  values in the sku column. I use a **_dropna_** function.
 
 The **fourth question** is identifying relevant information, unique SKUs, manufacturing sites, divisions, top and bottom 10...I end up adding a custom column for sales. However, it is important to note that the question identifies items that are "made to stock" (MTS), I filter all data by the column **stocking_type** to ensure it is **MTS**. 
 
