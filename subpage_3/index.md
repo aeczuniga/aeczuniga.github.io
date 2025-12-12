@@ -11,6 +11,8 @@ This subpage is the README file for a new repository with previous homework assi
 
 [PowerBI dashboard for repository](https://app.powerbi.com/groups/me/reports/bfebf438-371b-459a-b0bd-3ab190c083a4?ctid=128753ab-cb28-4f82-9733-2b9b91d2aca9&pbi_source=linkShare)
 
+**`must sign-in using CSUSM credentials`**
+
 ***
 # VIDEO walk-through
 
