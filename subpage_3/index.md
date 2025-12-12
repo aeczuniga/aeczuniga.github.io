@@ -14,7 +14,7 @@ This subpage is the README file for a new repository with previous homework assi
 ***
 # VIDEO walk-through
 
-[**WATCH FIRST**](https://youtu.be/xYfZdTZpGDI)
+[WATCH FIRST](https://youtu.be/xYfZdTZpGDI)
 
 ***
 
