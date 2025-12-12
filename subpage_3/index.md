@@ -46,6 +46,7 @@ The **second Python assignment** creates data analysis by looking into causation
 ***
 
 **`STEP 1`**
+
 _Who_
 
 Hollandia Dairy, a local company in Escondido. They have reached out to my employer for assistance, the problem is that Hollandia Dairy is receiving delayed invoices. As a consulting firm, it is my responsibility to present a solution that solves their problem. As someone specializing in supply chain, this problem can be solved, it is part of the supply chain.
@@ -59,6 +60,7 @@ _How_
 I would like to have an initial and follow-up meetings with the stakeholders requesting the consulting service, virtual meetings will give me the opportunity to engage with the staff at Hollandia Dairy and understand their concern. Then, a report discussed in person, at Amazon, managers discuss reports in person, it allows stakeholders to ask questions, and the author can address all concerns, mention why certain processes will not work or what else has been implemented elsewhere that works and the factors that contributed to success. A report is given more thought into what is written, how it is phrased, it is concise, whereas discussing a report is more informal, responses can be tailored in a manner that is easily understood in the moment. The value of discussion is the contribution of people.
 
 **`STEP 2`**
+
 I want to read the company’s standard operating procedures (SOP) to see if departments are failing to abide by SOPs. If departments are abiding by SOP’s, documents may provide insight into conflicting processes needing to re-evaluate or be more thorough. I want to understand why some departments use 3PL’s and other’s use transportation carriers, it may be that the product being shipped requires climate-controlled temperature but there may be other factors that influence the decision to choose 3PL’s or carriers. The purchasing of shipping services is not happening through one individual or department, it is mentioned that “particular” shipments receive delayed invoices, making me think that departments are not working accounting with accounting to record the liability (purchase) until it is paid. All bids must have a limited acceptable range that is subject to change, a similar policy should be included in the procurement contracts if the business has a procurement department. 
 
 1. Read the company’s and department policies.
@@ -66,12 +68,15 @@ I want to read the company’s standard operating procedures (SOP) to see if dep
 3. Look into how departments relay what is being purchased (shipping service) to accounting, the company is having a hard time forecasting expenses to budget.
 
 **`STEP 3`**
+
 To understand the problem in context, I must read. The data I need is standard operating procedures, policies, forms, shipment data, invoicing dates, invoice amounts, and divisions. After obtaining SOP policies, I want to know their contracts with the various shipping providers, identifying if shipping providers are not following their contractual obligations. I may be able to identify if the problem is not with shipping providers, rather it is with Hollandia Dairy, not understanding the contractual commitment. It is important to the data by the different modes of transportation.
 
 **`STEP 4`**
+
 Hollandia Dairy is a local company in San Diego, accounts payable is receiving invoices in a timeframe that inhibits the accounting department from creating a timely budget that tracks their liabilities. Looking at the company’s problem, departments place their own orders, there is no department or person taking ownership for purchasing. The risk is that invoices can get lost if they are not tracked or paid on time, incurring fines. The goal is to create collaboration across departments and centralize Hollandia’s purchasing, making it possible for accounting to have one person or department they can reach out to if invoices are not received on time.
 
 **`STEP 5`** 
+
 **Potential Recommendations**
 
 1. Get procurement to see if better pricing is obtainable by choosing to create partnerships instead of purchasing services from different shipping providers. Procurement can establish a person of contact within the shipping providers to assist Hollandia Dairy with documents needed, estimated expenses. By partnering with one or two shipping providers, shipping times can improve, improving lead times for consumers. Procurement can reach out to the legal department and establish contracts where estimates must be submitted within “x” amount of time after placing an order and cannot be greater than “x” percent, improving accounting’s tracking of liabilities. 
