@@ -6,7 +6,10 @@ layout: default
 
 This subpage is the README file for a new repository with previous homework assignments done in Python, **OM_621**. It is not in your interest to utilize any of the information, there are errors. I am learning. Again, this repository is for homework assignments for Dr. Karimi, California State University of San Marcos. 
 
-**GitHub Homework Repository, OM_621** [github.com/aeczuniga/OM_621_assignments](https://github.com/aeczuniga/OM_621_assignments)
+**GitHub Homework Repository, OM_621** 
+[github.com/aeczuniga/OM_621_assignments](https://github.com/aeczuniga/OM_621_assignments)
+
+[PowerBI dashboard for repository](https://app.powerbi.com/groups/me/reports/bfebf438-371b-459a-b0bd-3ab190c083a4?ctid=128753ab-cb28-4f82-9733-2b9b91d2aca9&pbi_source=linkShare)
 
 ***
 # VIDEO walk-through
